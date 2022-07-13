@@ -21,7 +21,7 @@
 |:----|:---------|
 | USE book | выбрать БД |
 | SELECT * FROM book_amital | показать ВСЮ таблицу |
-| INSERT INTO book_amital (`name`) VALUES ("Сказка о мертвой царевне") | создать новую строку, в столбей наименование записать - Сказка о мертвой царевне |
+| INSERT INTO book_amital (`name`) VALUES ("Сказка о мертвой царевне") | создать новую строку, в столбец наименование записать - Сказка о мертвой царевне |
 | UPDATE `book`.`book_amital` SET `autor` = 'Пушкин А.С.' WHERE (`id` = '6') | добавить данные в стр.6, автор - Пушкин А.С. |
 | UPDATE `book`.`book_amital` SET `price` = 345  WHERE (`id` = '6') | добавить данные в стр.6, цена - 345 |
 | UPDATE `book`.`book_amital` SET `quantity_stock` = 3  WHERE (`id` = '6') | добавить данные в стр.6, количество на складе -3 |
