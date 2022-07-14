@@ -15,7 +15,7 @@
 
 #### Скрин из MySQL Workbench 8.0 CE
 
-![Таблица: book_amital](https://github.com/TanyaGL11/---SQL/blob/main/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B.png "BA")
+![Таблица: book_amital](https://github.com/TanyaGL11/---SQL/blob/main/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B1.png "BA")
 
 ### 2.Строка для добавления	
 
@@ -37,7 +37,7 @@
 
 ##### Скрин из MySQL Workbench 8.0 CE
 
-![Таблица: book_amital](https://github.com/TanyaGL11/---SQL/blob/main/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D1%81%20%D0%B4%D0%BE%D0%B1%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8.png "BA")
+![Таблица: book_amital](https://github.com/TanyaGL11/---SQL/blob/main/%D0%9F%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%81%D1%8B%20%D1%81%20%D0%B4%D0%BE%D0%B1%20%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B81.png "BA")
 
 ### 3. Выборка(**WHERE**)
 
@@ -47,7 +47,7 @@
 
 ##### Скрин из MySQL Workbench 8.0 CE
 
-![Таблица: book_amital](https://github.com/TanyaGL11/---SQL/blob/main/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B0.png "BA")
+![Таблица: book_amital](https://github.com/TanyaGL11/---SQL/blob/main/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B8%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD%D0%B01.png "BA")
 
 ### 4. Выборка c ограничениями(**WHERE, ORDER BY**)
 
@@ -57,7 +57,7 @@
 
 ##### Скрин из MySQL Workbench 8.0 CE
 
-![Таблица: book_amital](https://github.com/TanyaGL11/---SQL/blob/main/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D0%BA%D0%B0.png "BA")
+![Таблица: book_amital](https://github.com/TanyaGL11/---SQL/blob/main/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D0%BA%D0%B01.png "BA")
 
 ### 5. Удаление строки.
 
@@ -71,8 +71,6 @@
 |:----|:---------|
 | SELECT * FROM book_amital WHERE autor LIKE '%Пушкин%' LIMIT 1 | вывести первую книгу Пушкина |
 
+##### Скрин из MySQL Workbench 8.0 CE
 
-
-
-
-
+![Таблица: book_amital](https://github.com/TanyaGL11/---SQL/blob/main/%D0%92%D1%8B%D0%B1%D0%BE%D1%80%D0%BA%D0%B0%20%D0%BF%D0%BE%20%D0%BB%D0%B8%D0%BC%D0%B8%D1%82%D1%83.png "BA")
